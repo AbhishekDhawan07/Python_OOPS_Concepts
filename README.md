@@ -11,17 +11,16 @@ This repository is dedicated to understanding and implementing **Object-Oriented
 This folder contains the following notebooks:
 
 1. **OOPS Concepts in Python - Part 1.ipynb**  
-   - Introduction to OOP
+   - Introduction to OOPS Concepts
    - Classes and Objects
-   - Constructors (`__init__`)
-   - Instance Variables and Methods
-
+   - Constructors (`__init__`) and it's Types
+     
 2. **OOPS Concepts in Python - Part 2.ipynb**  
-   - Inheritance
-   - Polymorphism
    - Encapsulation
    - Abstraction
-   - Advanced OOP concepts
+   - Inheritance
+   - Polymorphism
+   
 
 ---
 
