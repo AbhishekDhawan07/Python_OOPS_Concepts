@@ -1,4 +1,4 @@
-# 🐍 Python_OOPS_Concepts
+# 🐍 Python OOPS Concepts
 
 This repository is dedicated to understanding and implementing **Object-Oriented Programming (OOP) concepts in Python**. It contains Jupyter Notebook files that explain OOP principles in a structured and practical way.
 
